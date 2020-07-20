@@ -6,5 +6,5 @@ Following things are practised in this project:
 3. Higher Order Components : wrapping HOC to a component as a Props
 4. Used Axios to fetch api
 5. Used javascript functions such as map , filter , spread operator(...) , arrow functions , match.params , push , pop , shift , unshift , this keyword.
-[Home Page](https://github.com/tejasparkar/poke-web/poke_home.png)
-[Inner Post](https://github.com/tejasparkar/poke-web/inner_posts.png)
+[Home Page](https://github.com/tejasparkar/poke-web/blob/master/poke_home.png)
+[Inner Post](https://github.com/tejasparkar/poke-web/blob/master/poke_home.png)
